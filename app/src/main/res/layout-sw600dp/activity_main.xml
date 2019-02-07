@@ -11,75 +11,75 @@
         android:id="@+id/txtItem1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="48sp"
+        android:textSize="45sp"
         android:visibility="invisible" />
 
     <TextView
         android:id="@+id/txtItem2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="48sp"
+        android:textSize="45sp"
         android:visibility="invisible" />
 
     <TextView
         android:id="@+id/txtItem3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="48sp"
+        android:textSize="45sp"
         android:visibility="invisible" />
 
     <TextView
         android:id="@+id/txtItem4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="48sp"
+        android:textSize="45sp"
         android:visibility="invisible" />
 
     <TextView
         android:id="@+id/txtItem5"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="48sp"
+        android:textSize="45sp"
         android:visibility="invisible" />
 
     <TextView
         android:id="@+id/txtItem6"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="48sp"
+        android:textSize="45sp"
         android:visibility="invisible" />
 
     <TextView
         android:id="@+id/txtItem7"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="48sp"
+        android:textSize="45sp"
         android:visibility="invisible" />
 
     <TextView
         android:id="@+id/txtItem8"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="48sp"
+        android:textSize="45sp"
         android:visibility="invisible" />
 
     <TextView
         android:id="@+id/txtItem9"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="48sp"
+        android:textSize="45sp"
         android:visibility="invisible" />
 
     <TextView
         android:id="@+id/txtItem10"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="48sp"
+        android:textSize="45sp"
         android:visibility="invisible" />
 
     <Button
         android:id="@+id/btnAddItem"
-        android:layout_width="98dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="launchItemActivity"
         android:text="@string/btnAddItem" />
